@@ -15,8 +15,11 @@ By the way all the sensors used in this projects are also known like:
 - DHT11
 - DS18B20
 - LCD 16x2
+- LCD 20X4
+- i2c LCD
 - ESP8266
 - Transmitter 433 mhz
+- Receiver 433 mhz
 - enc28j60
 - bmp180
 - hc-sr4
@@ -31,6 +34,7 @@ For example, the raspberry pi with LAMP  is perfect to save the data from our se
 - Transmiter 433 MHZ using Arduino nano and Arduino UNO with LCD
 - Temperature LM35 and Arduino nano
 - Temperature DS18B20 and Arduino nano
+- Temparature DHT22 and Arduino Nano with LCD 20x4 i2c
 
 
 
