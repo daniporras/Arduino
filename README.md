@@ -34,8 +34,8 @@ For example, the raspberry pi with LAMP  is perfect to save the data from our se
 - Transmiter 433 MHZ using Arduino nano and Arduino UNO with LCD
 - Temperature LM35 and Arduino nano
 - Temperature DS18B20 and Arduino nano
-- Temparature DHT22 and Arduino Nano with LCD 20x4 i2c
-
+- Tempareture DHT22 and Arduino Nano with LCD 20x4 i2c
+- Showing a distance in an LCD
 
 
 
