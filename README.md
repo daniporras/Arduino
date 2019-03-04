@@ -7,6 +7,7 @@ For all projects, I have used Arduino IDE 1.6.8 So, you can download here [a lin
 The arduinos used are:
 - Arduino Nano
 - Arduino UNO
+- Arduino NodeMCU v3
 
 
 ## Sensors
@@ -14,16 +15,15 @@ By the way all the sensors used in this projects are also known like:
 - DHT22
 - DHT11
 - DS18B20
-- LCD 16x2
-- LCD 20X4
-- i2c LCD
-- ESP8266
-- Transmitter 433 mhz
-- Receiver 433 mhz
+- LCD 16x2 i2c
+- LCD 20X4 i2c
+- bme280
 - enc28j60
 - bmp180
 - hc-sr4
-- acs712
+- acs71
+- Transmitter 433 mhz
+- Receiver 433 mhz
 
 ## Clouds
 In some projects the cloud is used, like a Azure (VPS, webservices, etc) maybe you can use a home server to test it.
@@ -36,6 +36,6 @@ For example, the raspberry pi with LAMP  is perfect to save the data from our se
 - Temperature DS18B20 and Arduino nano
 - Tempareture DHT22 and Arduino Nano with LCD 20x4 i2c
 - Showing a distance in an LCD
-
+- Caldera using Arduino Esp8266
 
 
